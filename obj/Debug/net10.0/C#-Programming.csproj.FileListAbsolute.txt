@@ -12,3 +12,4 @@ C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\obj\Debug\net10.0\refint\C#
 C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\obj\Debug\net10.0\C#-Programming.pdb
 C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\obj\Debug\net10.0\C#-Programming.genruntimeconfig.cache
 C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\obj\Debug\net10.0\ref\C#-Programming.dll
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\obj\Debug\net10.0\C#-Programming.sourcelink.json

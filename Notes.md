@@ -13,3 +13,8 @@ To Run .cs file in terminal write "dotnet run filename.cs"
 user input in C# - strign agr = Console.ReadLine() -> takes input in String 
 ---> to convert to int - Convert.ToInt32(agr) or Convert.ToInt64(agr)
 ---> to take direct input in integer - int x = Convert.ToInt32(Console.ReadLine());
+
+How to run files :-
+1. Either make a separatre folders of each and make the desired .cs file and then interminal go to that folder and run "doptnet new console" this will generated or build a C# env to run the desired code if want delete the program.cs which was auto build then run cmd "dotnet run"
+
+2. Simply click the run button after few setting explained in learncodeing channel of C#.
