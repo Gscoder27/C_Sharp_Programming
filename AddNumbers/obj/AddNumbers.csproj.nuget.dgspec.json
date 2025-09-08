@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Programming\\AddNumbers\\AddNumbers.csproj": {}
+    "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Coding\\AddNumbers\\AddNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Programming\\AddNumbers\\AddNumbers.csproj": {
+    "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Coding\\AddNumbers\\AddNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Programming\\AddNumbers\\AddNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Coding\\AddNumbers\\AddNumbers.csproj",
         "projectName": "AddNumbers",
-        "projectPath": "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Programming\\AddNumbers\\AddNumbers.csproj",
+        "projectPath": "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Coding\\AddNumbers\\AddNumbers.csproj",
         "packagesPath": "C:\\Users\\Gurvindar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Programming\\AddNumbers\\obj\\",
+        "outputPath": "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Coding\\AddNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

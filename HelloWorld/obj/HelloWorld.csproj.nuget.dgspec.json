@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Programming\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Coding\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Programming\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Coding\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Programming\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Coding\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Programming\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Coding\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Gurvindar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Programming\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Gurvindar\\OneDrive\\Documents\\C#-Coding\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Gurvindar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Gurvindar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
