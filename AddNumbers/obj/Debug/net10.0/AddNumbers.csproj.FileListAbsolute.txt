@@ -1,0 +1,14 @@
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\AddNumbers\bin\Debug\net10.0\AddNumbers.exe
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\AddNumbers\bin\Debug\net10.0\AddNumbers.deps.json
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\AddNumbers\bin\Debug\net10.0\AddNumbers.runtimeconfig.json
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\AddNumbers\bin\Debug\net10.0\AddNumbers.dll
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\AddNumbers\bin\Debug\net10.0\AddNumbers.pdb
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\AddNumbers\obj\Debug\net10.0\AddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\AddNumbers\obj\Debug\net10.0\AddNumbers.AssemblyInfoInputs.cache
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\AddNumbers\obj\Debug\net10.0\AddNumbers.AssemblyInfo.cs
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\AddNumbers\obj\Debug\net10.0\AddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\AddNumbers\obj\Debug\net10.0\AddNumbers.dll
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\AddNumbers\obj\Debug\net10.0\refint\AddNumbers.dll
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\AddNumbers\obj\Debug\net10.0\AddNumbers.pdb
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\AddNumbers\obj\Debug\net10.0\AddNumbers.genruntimeconfig.cache
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\AddNumbers\obj\Debug\net10.0\ref\AddNumbers.dll

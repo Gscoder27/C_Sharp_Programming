@@ -1,0 +1,14 @@
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\bin\Debug\net10.0\C#-Programming.exe
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\bin\Debug\net10.0\C#-Programming.deps.json
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\bin\Debug\net10.0\C#-Programming.runtimeconfig.json
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\bin\Debug\net10.0\C#-Programming.dll
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\bin\Debug\net10.0\C#-Programming.pdb
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\obj\Debug\net10.0\C#-Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\obj\Debug\net10.0\C#-Programming.AssemblyInfoInputs.cache
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\obj\Debug\net10.0\C#-Programming.AssemblyInfo.cs
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\obj\Debug\net10.0\C#-Programming.csproj.CoreCompileInputs.cache
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\obj\Debug\net10.0\C#-Programming.dll
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\obj\Debug\net10.0\refint\C#-Programming.dll
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\obj\Debug\net10.0\C#-Programming.pdb
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\obj\Debug\net10.0\C#-Programming.genruntimeconfig.cache
+C:\Users\Gurvindar\OneDrive\Documents\C#-Programming\obj\Debug\net10.0\ref\C#-Programming.dll
